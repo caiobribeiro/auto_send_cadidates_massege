@@ -5,5 +5,4 @@ class Candidate:
         self.email = email
         self.ddd = ddd
         self.celNumber = celNumber
-    
 
